@@ -1,3 +1,7 @@
-# Supplementary material_Automatization and miniaturization of solid-phase extraction for cyanotoxin analysis
+# Supplementary material_Control CyBioFelix
 
-Software script to control CyBioFelix with Composer software.
+Automatization and miniaturization of solid-phase extraction for cyanotoxin analysis.
+
+## Requirements
+
+ - Composer Software
